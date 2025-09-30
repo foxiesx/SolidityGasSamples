@@ -100,8 +100,7 @@ Try go in order, as some of the understanding is layered
    1. Saves a lot of gas by cloning code 1
    2. **Note** it is restricted to delegated calls
 
-# Resources
-(Another GitHub)[https://github.com/iskdrews/awesome-solidity-gas-optimization#medium--articles]
+
 
 # Upcoming:
 - EVM ByteCode and Assembly optimisations
